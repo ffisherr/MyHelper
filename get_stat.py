@@ -1,7 +1,7 @@
 import pyowm
 from make_rus import make_rus_stat
 
-owm = pyowm.OWM('115177cad4aa37abee78bc77cc6e9235')
+owm = pyowm.OWM('YOUR_API_KEY')
 
 def ret_data(output):
 	observation = owm.weather_at_place(output)
