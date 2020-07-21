@@ -1,6 +1,6 @@
 # MyHelper
 
-Today I can do not so much, but time's running, and I'll be better
+Application is an example of parsing html pages and using weather api.
 
 # QuickStart
 
